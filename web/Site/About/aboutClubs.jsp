@@ -109,7 +109,9 @@
 
 </fieldset>
 </form>
-            
+ <%
+     <a href="addMemberClubServlet">Go to the servlet </a>
+     %>
             <div class="container">
 	<div class="row-fluid">
         <div class="span8">
